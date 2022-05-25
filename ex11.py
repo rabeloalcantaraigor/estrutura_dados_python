@@ -22,9 +22,12 @@ def qte_litros_usados(distancia):
     litros_usados=distancia/12
     return litros_usados
 
-def apresenta_resultados(distancia, litros_usados):
-    return f'Percorreu a distância {distancia} com {litros_usados} litros.'
+def apresenta_resultados(distancia, tempo, velocidade, litros_usados):
+    return f'Percorreu a distância de {distancia} km com {litros_usados} L no tempo de {tempo} h e velocidade {velocidade} km/h.'
+
+tempo=x['tempo']
+velocidade=x['velocidade']
 
 litros=qte_litros_usados(distancia)
-print(apresenta_resultados(distancia, litros))
+print(apresenta_resultados(distancia, tempo, velocidade, litros))
 
