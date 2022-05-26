@@ -1,0 +1,8 @@
+Leis do Eletromagnetismo
+A teoria clássica que chamamos de Mecânica é estruturada pelas três leis de Newton e por leis de força, como, por exemplo, a lei da Gravitação Universal.
+
+De modo análogo, a teoria clássica que chamamos de Eletromagnetismo é estruturada por quatro leis: lei de Gauss para a Eletricidade (que inclui a lei de Coulomb), lei de Gauss para o Magnetismo, lei de Ampère-Maxwell e lei de Faraday-Lenz. Estas quatro leis são complementadas pela lei de força de Lorentz:
+
+F = q (E + v × B)
+
+Nesta expressão, E representa o vetor campo elétrico, B representa o vetor campo magnético, ambos na posição ocupada pela partícula com carga elétrica q e velocidade v no referencial escolhido.
